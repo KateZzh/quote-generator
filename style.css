@@ -31,30 +31,28 @@ h1 {
 }
 
 .wrapper .nav {
-    background-image: url(./assets/points.png);
-    width: 57px;
-    height: 13px;
-    background-repeat: no-repeat;
-    background-size: contain;
-
+  background-image: url(./assets/points.png);
+  width: 57px;
+  height: 13px;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .wrapper p {
-    color: #ffffff;
-    text-align: center;
-    font-size: 25px;
-    margin-top: 140px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 140px;
 }
 
 .border {
-    background-image: url(./assets/frame.png);
-    width: 700px;
-    height: 360px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: relative;
-    left: 50px;
-    bottom: 325px;
-    z-index: -1;
-    
+  background-image: url(./assets/frame.png);
+  width: 700px;
+  height: 360px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  left: 50px;
+  bottom: 325px;
+  z-index: -1;
 }
